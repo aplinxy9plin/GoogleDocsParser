@@ -1,0 +1,15 @@
+{
+  "name": "google-docs-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "AplinXy9plin <evilberry@icloud.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "fs-extra": "^8.1.0",
+    "request": "^2.88.0"
+  }
+}
